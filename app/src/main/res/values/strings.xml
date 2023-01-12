@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">putExtra Demo</string>
+    <string name="go_to_second_activity">go to second activity</string>
+</resources>
